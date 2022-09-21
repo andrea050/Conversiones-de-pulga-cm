@@ -3,10 +3,7 @@ package projects;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nino
- */
+
 public class medidas {
      public static void main(String args[]){
      
